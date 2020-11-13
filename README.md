@@ -3,7 +3,7 @@ This repository is used by the Signalen product steering group to:
 
 * Collect, store and refine new incoming feature requests
 * Document the product steering group workflow and decisions making process.
-* A place to collect and store product management related documents and knowledge needed to perform our work.
+* A Wiki collect and store product management related knowledge needed to perform our work.
 
 ## How to create a new feature request
 If you have a new idea for Signalen or need a specific feature we love you to create a feature request.
