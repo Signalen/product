@@ -14,6 +14,3 @@ You can do this as follows:
 
 Every 2 weeks the product steering group will check incoming feature requests and may reach out to you for clarification or ask you to join the product steering group to discuss your feature request. And they will be prioritized and selected on our Product Backlog here: https://github.com/orgs/Signalen/projects/2
 
-## A note on contributing and governance
-The Signalen community is hard at work to provide the nessacary documentation to make it easy for everyone to contribute to the Signalen project.
-As of now we do not yet have our GOVERNANCE and CONTRUBUTE guidelines available.  
