@@ -14,3 +14,6 @@ You can do this as follows:
 
 Every 2 weeks the product steering group will check incoming feature requests and may reach out to you for clarification or ask you to join the product steering group to discuss your feature request. And they will be prioritized and selected on our Product Backlog here: https://github.com/orgs/Signalen/projects/2
 
+## Product steering meeting notes
+Meeting notes from the product steering calls are available in the meeting-notes folder.
+The chair of the product steering meeting will add the notes to this repository.
