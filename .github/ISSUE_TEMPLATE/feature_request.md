@@ -21,8 +21,6 @@ E-mailadres / e-mail address:
 
 ### Probleem beschrijving / Problem description
 
-### Oplossingsrichting / Solution direction
-
 ### Gebruikers criteria / User criteria
 
 ### Consequentie nul-optie / Cost of not doing this request
