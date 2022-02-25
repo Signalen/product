@@ -1,33 +1,32 @@
 ---
-name: Feature request
-about: Suggest a new feature for this project
-title: "[FEATURE-REQUEST]"
+name: Verzoek
+about: Maak een nieuw verzoek aan voor Signalen
+title: "[VERZOEK]"
 labels: enhancement
 assignees: ''
 
 ---
 
-Om een feature request in te dienen gebruik dit template. 
-To add a new feature request please use this template.
+Gebruik deze template voor het indienen van een verzoek. 
 
-## Gegevens aanvrager / information applicant
+## Gegevens aanvrager
 
-Gemeente / Municipality : 
-Naam / Name:
-Telefoonnummer / Phone number (OPTIONAL):
-E-mailadres / e-mail address:
+Gemeente: 
+Naam indiener:
+Telefoonnummer(OPTIONAL):
+E-mailadres:
 
-### Omschrijving / Summary
+### Omschrijving
 
-### Probleem beschrijving / Problem description
+### Probleem beschrijving
 
-### Gebruikers criteria / User criteria
+### Gebruikers criteria
 
-### Consequentie nul-optie / Cost of not doing this request
+### Consequentie nul-optie
 
-### Acceptatie criteria / Acceptance criteria
+### Acceptatie criteria
 
-### Details feature / details of feature
+### Details feature
 
-### Urgentie / Priority
-Use a number from 1 to 7 to indicate priority incl
+### Urgentie / Prioriteit
+Kies een nummer van 1 tot 7 om de urgentie of prioriteit aan te geven
