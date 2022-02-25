@@ -13,7 +13,7 @@ Gebruik deze template voor het indienen van een verzoek.
 
 Gemeente: 
 Naam indiener:
-Telefoonnummer(OPTIONAL):
+Telefoonnummer(optioneel):
 E-mailadres:
 
 ### Omschrijving
